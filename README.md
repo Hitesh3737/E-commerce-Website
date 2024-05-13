@@ -22,10 +22,10 @@ Our mission is to create a seamless shopping experience that goes beyond transac
                                                     Vlog Page
 ![Vlog Page](https://i.postimg.cc/fy15DNCv/Vlog-Page.jpg)
 
-                                                      About Page
+                                                     About Page
 ![About Page](https://i.postimg.cc/gJnTWNdm/About-Page.jpg)
 
-                                                     Contact Page
+                                                    Contact Page
 ![Contact Page](https://i.postimg.cc/6przJFvd/Contact-Page.jpg)
 ## Acknowledgements
 
