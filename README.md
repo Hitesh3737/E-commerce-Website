@@ -16,10 +16,10 @@ Our mission is to create a seamless shopping experience that goes beyond transac
                                                    Product Page
 ![Product Page](https://i.postimg.cc/jdCGTqxy/Product-Page.jpg)
 
-                                                   Feature Page
+                                                   Features Page
 ![Feature Page](https://i.postimg.cc/x8XgwCvC/Feature-Page.jpg)
 
-                                                    Vlog Page
+                                                      Blog Page
 ![Vlog Page](https://i.postimg.cc/fy15DNCv/Vlog-Page.jpg)
 
                                                      About Page
