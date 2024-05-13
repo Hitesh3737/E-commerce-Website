@@ -13,13 +13,13 @@ Our mission is to create a seamless shopping experience that goes beyond transac
                                                    Home Page
 ![Home Page](https://i.postimg.cc/x8sDRc01/Home-Page.jpg)
 
-                                                   Product Page
+                                                 Product Page
 ![Product Page](https://i.postimg.cc/jdCGTqxy/Product-Page.jpg)
 
                                                    Features Page
 ![Feature Page](https://i.postimg.cc/x8XgwCvC/Feature-Page.jpg)
 
-                                                      Blog Page
+                                                     Blog Page
 ![Vlog Page](https://i.postimg.cc/fy15DNCv/Vlog-Page.jpg)
 
                                                      About Page
